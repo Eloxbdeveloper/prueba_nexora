@@ -1,4 +1,2 @@
-
 [build]
- 
-  publish = "frontend/public/intex.html"
+  publish = "frontend/public"
